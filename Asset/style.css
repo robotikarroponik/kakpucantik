@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    font-size: 15px;
+}
+html {
+    background-color: aqua;
+
+}
+.layar-dalam{
+    width: 1000;
+    margin: auto;
+}
+nav{
+    z-index: 100 ;
+    color: antiquewhite;
+    text-align: center;
+    position: fixed;
+    border-bottom: 1px solid #fff;
+    line-height: 60px;
+    width: 100%;
+}
+nav.putih{
+    background-color: #fff;
+}
+nav.logo {
+    float: left;
+    position: relative;
+    line-height: 55px;
+    text-align: center;
+}
+nav.logo.img{
+    vertical-align: middle;
+    width: 120px;
+}

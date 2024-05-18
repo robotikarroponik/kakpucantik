@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(186, 183, 10);
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+.img{
+    
+}
